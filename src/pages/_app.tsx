@@ -7,8 +7,8 @@ import type { AppProps } from "next/app";
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "정승조 | Back-End Dev",
-  description: "안녕하세요, 백엔드 개발자 홍길동입니다.",
+  title: "정승조 | 백엔드 개발자",
+  description: "안녕하세요, 백엔드 개발자 정승조입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
