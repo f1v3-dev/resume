@@ -1,14 +1,14 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Seungjo, Jeong"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "정승조",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "f1v3@kakao.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/f1v3-dev" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@f1v3" }
     ]
   },
 
@@ -30,33 +30,47 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "Java Study",
+      "description": "NHN Academy에서 진행한 Java 스터디입니다.",
+      "webUrl": "https://ckin.store",
+      "repoUrl": "https://github.com/NHN-Team-03",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2023. 09", "2023. 10"],
+      "stack": ["Java", "Github", "Thread", "Network"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "name": "CSU-MAP",
+      "description": "조선대학교 IT융합대학 강의실 위치 및 정보 제공 웹 서비스입니다.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/f1v3-dev/CSU-MAP",
+      "isTeam": true,
+      "period": ["2023. 03", "2023. 06"],
+      "stack": ["Java", "Spring Boot", "Mustache", "AWS", "Github Actions"]
+    },
+    {
+      "id": 2,
+      "name": "체크인 (CKIN)",
+      "description": "Spring Cloud를 활용하여 분산 서버 기반의 온라인 서점 프로젝트입니다.",
+      "webUrl": "https://ckin.store",
+      "repoUrl": "https://github.com/nhnacademy-be4-ckin",
+      "isTeam": true,
+      "period": ["2024. 02", "2024. 03"],
+      "stack": ["Java", "Spring Boot", "Javascript", "Spring Cloud", "Spring Data JPA", "MySQL", "Redis", "NHN Cloud"]
+    },
+    {
+      "id": 3,
+      "name": "쇼핑몰 프로젝트",
+      "description": "Servlet/JSP 기반의 MVC 패턴을 활용한 쇼핑몰 프로젝트입니다.",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
       "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["Java", "Servlet", "JSP", "Apache Tomcat", "MySQL(JDBC)"]
     }
   ],
 
   "activity": [
-    {
-      "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
-    },
     {
       "id": 1,
       "name": "두번째 활동",
@@ -68,30 +82,30 @@
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "조선대학교",
+      "period": ["2018. 03", "2024. 02"],
+      "description": "컴퓨터공학 전공"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "NHN Academy Java Backend 4기",
+      "period": ["2023. 08", "2024. 03"],
+      "description": "소프트웨어 설계법부터 Java, Database, Spring 등 백엔드 개발자로서 필요한 기술을 학습하였습니다."
     }
   ],
 
   "certificate": [
     {
-      "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+  "id": 0,
+  "name": "SQLD",
+  "date": "2022. 12. 02",
+  "organizer": "한국데이터산업진흥원"
     },
     {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "id": 0,
+      "name": "정보처리기사",
+      "date": "2023. 06. 09",
+      "organizer": "한국산업인력공단"
     }
   ],
 
