@@ -5,6 +5,7 @@
   "information": {
     "name": "정승조",
     "contact": [
+      { "id": 0, "name": "> 이력서를 웹 버전으로 확인하시려면 여기를 클릭해주세요!", "href": "https://f1v3.vercel.app/" }
     ]
   },
   "workExperience": [
