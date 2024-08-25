@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "Seungjo, Jeong"
+    "title": "JEONG SEUNGJO"
   },
   "information": {
     "name": "정승조",
@@ -90,6 +90,26 @@
       ]
     },
     {
+      "id": 4,
+      "name": "째깍 (jjakkak)",
+      "description": "모임 일정 조율 서비스의 백엔드 개발을 진행하고 있습니다.",
+      "repoUrl": "https://github.com/dnd-side-project/dnd-11th-7-backend",
+      "isTeam": true,
+      "period": [
+        "2024. 07",
+        "진행중"
+      ],
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "MySQL",
+        "AWS",
+        "Docker",
+        "Github Actions"
+      ]
+    },
+    {
       "id": 3,
       "name": "쇼핑몰 프로젝트",
       "description": "Servlet/JSP 기반의 MVC 패턴을 활용한 쇼핑몰 프로젝트입니다.",
@@ -114,9 +134,9 @@
       "name": "DND 11기",
       "period": [
         "2024. 07",
-        "진행중"
+        "2024. 08"
       ],
-      "description": "8주간 디자이너 및 개발자가 함께하는 프로젝트에서 백엔드 개발 및 팀장으로 활동 중입니다.\n\n- 프로젝트 기획 전 과정 참여 및 요구사항 분석 설계\n- Spring Framework 기반의 백엔드 개발\n"
+      "description": "8주간 팀장으로서 디자이너와 개발자와 함께 '째깍(Jjakkak)' 서비스 기획 및 개발 진행"
     }
   ],
   "education": [
