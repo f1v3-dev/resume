@@ -1,7 +1,7 @@
 > 📧 **Email**: [f1v3@kakao.com](mailto:f1v3@kakao.com)  
-> 📲 **Phone**: +82 10-2717-8134  
 > 🌐 **GitHub**: [github.com/f1v3-dev](https://github.com/f1v3-dev)    
 > 📝 **Blog**: [velog.io/@f1v3](https://velog.io/@f1v3)
+
 
 **좋은 개발자가 되기 위해 중요한 덕목은 “끈기” 라고 생각합니다.**  
 1년이 넘는 기간 동안 깃허브와 블로그에 꾸준히 기록하며, 새로운 기술들을 학습하고 그 핵심을 파악하는 능력을 키웠습니다. 소프트웨어 업계는 빠르게 변화하고 있으며, 이러한 변화에 발맞춰 어떠한 기술이라도 빠르게 습득하고 적재적소에 활용할 수 있습니다. 이러한 끈기와 학습 능력을 바탕으로 꾸준히 성장하고 있습니다.
@@ -11,3 +11,12 @@
 
 **한 줄의 코드를 작성하더라도 이해하기 쉬운 코드, 견고한 코드를 작성하는 것을 최우선으로 생각하고 있습니다.**  
 NHN Academy에서의 교육 활동을 통해 Abstract Barrier, Pre-condition, Post-condition, Testing 등의 개념을 활용하여 견고한 코드를 작성하는 것이 이해하기 쉬운 코드가 되는 것을 경험하였습니다. 이러한 원칙을 바탕으로 코드 리뷰를 진행하며, 팀원들과 함께 더 나은 코드를 만들어가는 과정을 즐깁니다.
+
+---
+
+### Skills.
+
+- Programming Language: **Java**
+- Backend Technologies: **Spring**, **REST API**
+- Database: **MySQL**, **Oracle**
+- Tools: **Git**, **GitHub Actions**, **Docker**, **Jenkins**
