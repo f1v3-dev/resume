@@ -16,7 +16,7 @@ NHN Academy에서의 교육 활동을 통해 Abstract Barrier, Pre-condition, Po
 
 ### Skills.
 
-- Programming Language: **Java**
-- Backend Technologies: **Spring**, **REST API**
-- Database: **MySQL**, Redis
-- Tools: **Git**, **GitHub Actions**, **Docker**, Jenkins
+- **Programming Language**: Java, Python
+- **Backend Technologies**: Spring, REST API
+- **Database**: MySQL, Redis
+- **Tools**: Git, GitHub Actions, Docker, AWS, Jenkins
