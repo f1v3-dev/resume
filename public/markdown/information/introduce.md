@@ -12,11 +12,14 @@
 **한 줄의 코드를 작성하더라도 이해하기 쉬운 코드, 견고한 코드를 작성하는 것을 최우선으로 생각하고 있습니다.**  
 NHN Academy에서의 교육 활동을 통해 Abstract Barrier, Pre-condition, Post-condition, Testing 등의 개념을 활용하여 견고한 코드를 작성하는 것이 이해하기 쉬운 코드가 되는 것을 경험하였습니다. 이러한 원칙을 바탕으로 코드 리뷰를 진행하며, 팀원들과 함께 더 나은 코드를 만들어가는 과정을 즐깁니다.
 
----
-
 ### Skills.
 
-- **Programming Language**: Java, Python
+- **Programming Language**: Java
 - **Backend Technologies**: Spring, REST API
 - **Database**: MySQL, Redis
-- **Tools**: Git, GitHub Actions, Docker, AWS, Jenkins
+- **Tools**: Git, GitHub Actions, Docker, AWS
+
+### Open Source Contributions.
+
+- _[fixture-monkey (naver)](https://github.com/naver/fixture-monkey/pull/1050)_: 한국어 공식 문서 오류 수정 및 개선
+- _[토스페이먼츠 SDK Sample (tosspayments) ](https://github.com/tosspayments/tosspayments-sample-v1/pull/38)_: README 오타 수정 
