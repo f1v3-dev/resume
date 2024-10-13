@@ -31,23 +31,6 @@
   "project": [
     {
       "id": 0,
-      "name": "Java Study",
-      "description": "NHN Academy에서 진행한 Java 스터디입니다.",
-      "repoUrl": "https://github.com/NHN-Team-03",
-      "isTeam": true,
-      "period": [
-        "2023. 09",
-        "2023. 10"
-      ],
-      "stack": [
-        "Java",
-        "Github",
-        "Thread",
-        "Network"
-      ]
-    },
-    {
-      "id": 1,
       "name": "CSU-MAP",
       "description": "조선대학교 IT융합대학 강의실 위치 및 정보 제공 웹 서비스입니다.",
       "repoUrl": "https://github.com/f1v3-dev/CSU-MAP",
