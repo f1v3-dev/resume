@@ -76,6 +76,7 @@
       "id": 4,
       "name": "째깍 (jjakkak)",
       "description": "모임 일정 조율 서비스의 백엔드 개발을 진행하고 있습니다.",
+      "webUrl": "https://www.jjakkak.com/",
       "repoUrl": "https://github.com/dnd-side-project/dnd-11th-7-backend",
       "isTeam": true,
       "period": [
