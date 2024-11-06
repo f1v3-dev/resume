@@ -5,7 +5,11 @@
   "information": {
     "name": "정승조",
     "contact": [
-      { "id": 0, "name": "> Web: https://f1v3.vercel.app", "href": "https://f1v3.vercel.app/" }
+      {
+        "id": 0,
+        "name": "> Web: https://f1v3.vercel.app",
+        "href": "https://f1v3.vercel.app/"
+      }
     ]
   },
   "workExperience": [
@@ -30,7 +34,7 @@
   ],
   "project": [
     {
-      "id": 0,
+      "id": 2,
       "name": "CSU-MAP",
       "description": "조선대학교 IT융합대학 강의실 위치 및 정보 제공 웹 서비스입니다.",
       "repoUrl": "https://github.com/f1v3-dev/CSU-MAP",
@@ -49,7 +53,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "체크인 (CKIN)",
       "description": "Spring Cloud를 활용하여 분산 서버 기반의 온라인 서점 프로젝트입니다.",
       "repoUrl": "https://github.com/nhnacademy-be4-ckin",
@@ -73,7 +77,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 0,
       "name": "째깍 (jjakkak)",
       "description": "모임 일정 조율 서비스의 백엔드 개발을 진행하고 있습니다.",
       "webUrl": "https://www.jjakkak.com/",
