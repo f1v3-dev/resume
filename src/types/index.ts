@@ -13,6 +13,7 @@ export interface WorkExperienceProps {
   period: string[];
   markdown?: string;
   imgSrc?: string;
+  repoUrl?: string;
 }
 
 export interface ProjectProps {
@@ -31,7 +32,6 @@ export interface ProjectProps {
 export interface AwardProps {
   id: number;
   name: string;
-  date: string;
   organizer: string;
   description: string;
 }
