@@ -53,7 +53,7 @@
       "isTeam": true,
       "period": [
         "2024. 07",
-        "진행중"
+        "2024. 08"
       ],
       "stack": [
         "Java",
@@ -103,12 +103,18 @@
         "2018. 03",
         "2024. 02"
       ],
-      "description": "컴퓨터공학 전공 학사 졸업 \n\n"
+      "description": "컴퓨터공학 전공 학사 졸업"
     }
   ],
   "certificate": [
     {
       "id": 0,
+      "name": "SQLD",
+      "date": "2022. 12. 02",
+      "organizer": "한국산업인력공단"
+    },
+    {
+      "id": 1,
       "name": "정보처리기사",
       "date": "2023. 06. 09",
       "organizer": "한국산업인력공단"
@@ -117,14 +123,9 @@
   "award": [
     {
       "id": 0,
-        "name": "토스페이먼츠 SDK Sample",
-        "organizer": "tosspayment",
-        "description": "README 오타 수정 "
-    },
-    {
-      "id": 1,
       "name": "fixture-monkey",
       "organizer": "naver",
+      "url": "https://github.com/naver/fixture-monkey/pull/1050",
       "description": "한국어 문서 오류 수정 및 개선"
     }
   ]
