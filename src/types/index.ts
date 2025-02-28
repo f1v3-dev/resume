@@ -34,6 +34,7 @@ export interface AwardProps {
   name: string;
   organizer: string;
   description: string;
+  url: string;
 }
 
 export interface DataProps {

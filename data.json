@@ -21,9 +21,9 @@
   ],
   "project": [
     {
-      "id": 1,
+      "id": 0,
       "name": "체크인 (CKIN)",
-      "description": "Spring Cloud를 활용하여 분산 서버 기반의 온라인 서점 프로젝트입니다.",
+      "description": "Spring Cloud를 활용한 분산 서버 기반의 온라인 서점 프로젝트입니다.",
       "repoUrl": "https://github.com/nhnacademy-be4-ckin",
       "isTeam": true,
       "period": [
@@ -45,9 +45,9 @@
       ]
     },
     {
-      "id": 0,
+      "id": 1,
       "name": "째깍 (jjakkak)",
-      "description": "모임 일정 조율 서비스의 백엔드 개발을 진행하고 있습니다.",
+      "description": "모임 일정 조율 서비스의 백엔드 개발을 담당했습니다.",
       "webUrl": "https://www.jjakkak.com/",
       "repoUrl": "https://github.com/dnd-side-project/dnd-11th-7-backend",
       "isTeam": true,
@@ -67,32 +67,37 @@
     },
     {
       "id": 2,
-      "name": "쇼핑몰 프로젝트",
-      "description": "Servlet/JSP 기반의 MVC 패턴을 활용한 쇼핑몰 프로젝트입니다.",
-      "repoUrl": "https://github.com/f1v3-dev/shoppingmall",
-      "isTeam": false,
+      "name": "스부키 (sbooky)",
+      "description": "게이미피케이션을 접목한 독서 기록 서비스의 백엔드 개발을 담당하고 있습니다.",
+      "webUrl": "https://sbooky.net",
+      "repoUrl": "https://github.com/dnd-side-project/dnd-12th-9-backend",
+      "isTeam": true,
       "period": [
-        "2023. 10",
-        "2023. 11"
+        "2025. 01",
+        "진행 중"
       ],
       "stack": [
         "Java",
-        "Servlet",
-        "JSP",
-        "Apache Tomcat",
-        "MySQL(JDBC)"
+        "Spring Boot",
+        "Spring Data JPA",
+        "Spring Cloud OpenFeign",
+        "MySQL",
+        "Redis",
+        "AWS",
+        "Docker",
+        "Github Actions"
       ]
     }
   ],
   "activity": [
     {
       "id": 0,
-      "name": "DND 11기",
+      "name": "DND 11기, 12기",
       "period": [
         "2024. 07",
-        "2024. 08"
+        "2025. 02"
       ],
-      "description": "8주간 팀장으로서 디자이너와 개발자와 함께 '째깍(Jjakkak)' 서비스 기획 및 개발 진행"
+      "description": "8주간 디자이너와 개발자와 함께 '째깍(jjakkak)', '스부키(sbooky)' 서비스 기획 및 개발 진행"
     }
   ],
   "education": [
